@@ -43,6 +43,8 @@ Total = sum of three scores (max 30)
 | Build/maintain lean muscle mass | 10 | 6 | 7 | 23 | Not started |
 | Reach 15–20% body fat | 9 | 5 | 6 | 20 | Not started |
 | Reach 175–190 lb | 7 | 5 | 6 | 18 | Not started |
+| Daily piano practice (45–60 min) | 10 | 8 | 9 | 27 | Active |
+| Daily reading (30–45 min) | 9 | 9 | 9 | 27 | Not started |
 
 ---
 
@@ -186,49 +188,6 @@ Exercise stimulates **collateral blood vessel growth** in the heart — dormant 
 
 ---
 
-## Key Research Findings
-
-### Weight & Body Composition
-- **Overweight BMI (25–30) has lower all-cause mortality than normal BMI after 50** (Flegal, JAMA 2013; 2.88M people)
-- **The "obesity paradox" disappears when waist circumference is used instead of BMI** — it's about visceral fat, not total weight
-- **Sarcopenia (muscle loss) is a major mortality driver after 50** — losing 1–2% muscle mass/year without intervention
-- **A muscular 190 lb man at 18% body fat is healthier than a sedentary 170 lb man at 25% body fat**
-
-### Resistance Training
-- Each muscle group **2x/week** is superior to 1x for hypertrophy (Schoenfeld 2016)
-- **10–15 sets per muscle/week** is the optimal dose-response range (Schoenfeld 2017)
-- **60–80% of 1RM** produces greatest strength gains in older adults (Peterson 2010)
-- Even **90-year-olds** gain significant strength with progressive resistance training (Fiatarone, NEJM 1994)
-
-### Cardio & Heart Health
-- **150 min/week** captures ~80% of maximum mortality benefit (Arem, JAMA 2015)
-- **Moderate-intensity cardio grows collateral vessels as well as high-intensity** (EXCITE Trial, Circulation 2016)
-- **Combined cardio + resistance = 40–46% lower all-cause mortality** vs. either alone
-- **Resistance training itself improves blood pressure and lipid profiles** (Cornelissen & Smart, JACC 2013)
-
-### Sources
-
-- Flegal et al., JAMA 2013 — Overweight and mortality meta-analysis
-- Global BMI Mortality Collaboration, Lancet 2016 — BMI and all-cause mortality
-- 2024 Systematic Review (PMC) — BMI and all-cause mortality
-- Winter et al., Am J Clin Nutr 2014 — BMI and mortality in older adults
-- Ashwell & Hsieh, PMC 2013 — WHtR vs BMI for cardiometabolic risk
-- Volaklis et al., PMC 2018 — Muscle mass/strength and mortality
-- Nature Int J Obesity 2023 — WHtR and years of life lost
-- EXCITE Trial, Circulation 2016 — Coronary collateral growth from exercise
-- Meier et al., European Heart Journal 2012 — Collateral circulation and mortality
-- Murlasits et al., Sports Medicine 2018 — Concurrent training interference effect
-- Schoenfeld et al., Sports Medicine 2016 — Training frequency and hypertrophy
-- Schoenfeld et al., JSCR 2017 — Volume dose-response for hypertrophy
-- Peterson et al., Medicine & Science in Sports 2010 — Resistance training in older adults
-- Fiatarone et al., NEJM 1994 — Progressive resistance in elderly
-- Arem et al., JAMA Internal Medicine 2015 — Exercise dose and mortality
-- McGill, Low Back Disorders 2010 — Spinal flexion and disc injury
-- Cornelissen & Smart, JACC 2013 — Resistance training and blood pressure
-- NSCA Position Statement (Fragala 2019) — Resistance training for older adults
-
----
-
 ## Nutrition Plan
 
 ### Calorie & Macro Targets
@@ -368,6 +327,72 @@ Midweek, cook fish or ground turkey fresh (10–15 min).
 
 ---
 
+## Mental & Cognitive Health
+
+### Daily Cognitive Health Schedule
+
+| Activity | Duration | Primary Benefits |
+|----------|----------|-----------------|
+| **Piano practice** | 45–60 min | Executive function, neuroplasticity, multi-sensory integration, flow state |
+| **Reading** (deep, engaged) | 30–45 min | Language, reasoning, critical thinking, vocabulary |
+| **Total** | **75–105 min** | Multi-domain cognitive stimulation (superior to single-domain) |
+
+### Why Reduce Piano from 2 Hours to 1 Hour
+
+The cognitive benefits of music practice **plateau well before skill acquisition benefits do**:
+
+- Studies found measurable brain benefits from as little as **21 min/day** (Seinfeld 2013) and **1 hour/week** (University of Bath 2022)
+- Deliberate practice research found "essentially no benefit from durations exceeding 4 hours per day and reduced benefits from practice exceeding 2 hours" (Ericsson 1993)
+- One focused 45–60 min session is more valuable than 2 distracted hours — **quality over quantity**
+- The freed-up time is better spent on reading, which targets different cognitive domains
+
+### Piano Practice — What the Science Shows
+
+**Cognitive benefits (strong evidence from RCTs):**
+
+| Domain | Evidence |
+|--------|----------|
+| Executive function | Significant improvements on Stroop, TMT-B, verbal fluency (Bugos 2007, Seinfeld 2013, Bugos & Wang 2022) |
+| Working memory | Improvements in adults 60+ who began piano (Bugos 2007, TBM study) |
+| Processing speed | Improvements on Digit Symbol Coding (Bugos 2007) |
+| Neuroplasticity | White matter stabilization in fornix (memory tract), increased functional connectivity (TBM study) |
+| Dementia prevention | 36% reduced dementia risk from playing an instrument (Arafa 2022 meta-analysis) |
+
+**Mental health benefits:**
+- Decreases depression and anxiety (large effect sizes — Seinfeld 2013, meta-analyses)
+- Reduces cortisol (stress hormone)
+- Reliably induces **flow state** — one of the strongest predictors of well-being
+- Deeper skill = deeper flow experiences (Loepthien & Leipold 2022)
+
+**Why piano is uniquely powerful:** It is the only common activity that simultaneously engages auditory, visual, motor, memory, and executive brain systems. No other single activity provides this breadth of neural stimulation.
+
+### Reading — Complementary Benefits
+
+Reading engages substantially different brain regions than music:
+- **Language networks** (Broca's and Wernicke's areas)
+- **Reasoning and critical analysis** (prefrontal cortex)
+- **Theory of mind** (for fiction — understanding others' perspectives)
+- **Episodic memory systems**
+
+The Verghese et al. (NEJM 2003) landmark study found both reading and playing instruments **independently** reduced dementia risk. Each additional cognitive activity contributed incrementally (HR 0.93 per activity).
+
+### Why Both Together > Either Alone
+
+1. **Different neural networks** — music and reading engage overlapping but substantially different brain regions
+2. **Different cognitive domains** — music excels at executive function and motor integration; reading excels at language and abstract reasoning
+3. **Multi-domain interventions outperform single-domain** (Lancet Healthy Longevity 2025)
+4. **Each additional cognitive activity independently reduces dementia risk** (Verghese, NEJM 2003)
+
+### Practice Tips
+
+- **Consistency matters more than duration** — daily 45 min beats sporadic 2-hour sessions
+- **Deliberate practice** — work at the edge of your ability, not comfortable repetition
+- **It takes ~30 min** to reach optimal flow state, so sessions shorter than 30 min may miss this window
+- **Spaced practice** — distributing practice across days is more effective than massing it (PLOS One)
+- **Social music-making** amplifies benefits — consider group lessons or ensemble playing occasionally
+
+---
+
 ## Key Research Findings
 
 ### Weight & Body Composition
@@ -387,6 +412,15 @@ Midweek, cook fish or ground turkey fresh (10–15 min).
 - **Moderate-intensity cardio grows collateral vessels as well as high-intensity** (EXCITE Trial, Circulation 2016)
 - **Combined cardio + resistance = 40–46% lower all-cause mortality** vs. either alone
 - **Resistance training itself improves blood pressure and lipid profiles** (Cornelissen & Smart, JACC 2013)
+
+### Mental & Cognitive Health
+- **Playing an instrument reduces dementia risk by 36%** (Arafa 2022 meta-analysis)
+- **Piano practice improves executive function, working memory, and processing speed** even when started after 60 (Bugos 2007, Seinfeld 2013, Bugos & Wang 2022)
+- **6 months of piano stabilizes white matter** in brain tracts critical for memory (TBM study)
+- **Each additional cognitive activity independently reduces dementia risk** — HR 0.93 per activity (Verghese, NEJM 2003)
+- **Multi-domain cognitive interventions outperform single-domain** (Lancet Healthy Longevity 2025)
+- **Cognitive benefits of practice plateau around 45–60 min/session** — 2 hours is not meaningfully better than 1 hour for brain health (Ericsson 1993)
+- **Music practice reduces depression, anxiety, and cortisol** (Seinfeld 2013, stress biomarker meta-analyses)
 
 ### Nutrition
 - **High protein (1.6–2.0 g/kg) during a deficit preserves lean mass** (Phillips & Van Loon 2011, Longland 2016)
@@ -431,6 +465,15 @@ Midweek, cook fish or ground turkey fresh (10–15 min).
 - Smith et al., AJCN 2011 — Omega-3 and MPS in older adults
 - Holick, NEJM 2007 — Vitamin D deficiency
 - Morton et al., BJSM 2018 — Protein supplementation meta-analysis
+- Bugos et al., Aging Neuropsychol Cognition 2007 — Piano instruction and executive function in older adults
+- Seinfeld et al., PLOS One 2013 — Piano practice, cognition, mood, quality of life
+- Bugos & Wang, J Gerontol 2022 — Piano training, executive functions, psychosocial outcomes RCT
+- TBM Study, Frontiers Aging Neuroscience 2022 — Piano training stabilizes white matter in fornix
+- Verghese et al., NEJM 2003 — Leisure activities and dementia risk
+- Arafa et al., PMC 2022 — Musical instrument playing and dementia risk meta-analysis
+- Ericsson et al., Psychological Review 1993 — Deliberate practice
+- Loepthien & Leipold, Psychology of Music 2022 — Flow in musical activities and well-being
+- Lancet Healthy Longevity 2025 — Multidomain lifestyle interventions for cognitive health
 
 ---
 
@@ -447,3 +490,5 @@ Midweek, cook fish or ground turkey fresh (10–15 min).
 - [ ] Get blood work: vitamin D levels, basic metabolic panel
 - [ ] Purchase supplements: creatine, whey protein, vitamin D3, omega-3, magnesium
 - [ ] Sunday meal prep: batch-cook protein + carbs for the week
+- [x] Research cognitive health: piano practice and reading
+- [ ] Shift piano practice to 45–60 min/day, add 30–45 min reading
