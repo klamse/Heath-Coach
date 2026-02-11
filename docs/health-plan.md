@@ -441,7 +441,7 @@ Midweek, cook fish or ground turkey fresh (10–15 min).
 - [x] Research evidence-based weight targets
 - [x] Design resistance training program
 - [x] Design nutrition plan for body recomposition
-- [ ] Set up regular tracking in health-log.md
+- [x] Set up regular tracking in health-log.csv (Excel-compatible)
 - [ ] Phase in new program (weeks 1–2: learn movements)
 - [ ] Consider 1–2 sessions with a trainer for compound lift form (squat, deadlift)
 - [ ] Get blood work: vitamin D levels, basic metabolic panel
