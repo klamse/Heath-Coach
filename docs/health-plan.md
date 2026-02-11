@@ -229,11 +229,208 @@ Exercise stimulates **collateral blood vessel growth** in the heart — dormant 
 
 ---
 
-## Nutrition (Brief)
+## Nutrition Plan
 
-- **Protein target:** 145–200 g/day (1.6–2.2 g/kg) — higher end recommended for older adults due to anabolic resistance
-- **Caloric deficit:** 300–500 kcal/day for sustainable fat loss (~0.5–1 lb/week)
-- **Protein distribution:** 30–40 g per meal across 4+ meals/day
+### Calorie & Macro Targets
+
+| Parameter | Target | Notes |
+|-----------|--------|-------|
+| **Daily calories** | **2,300 kcal** | ~15-17% deficit from TDEE of ~2,700. Adjust every 3–4 weeks. |
+| **Protein** | **160 g/day** (1.8 g/kg) | Non-negotiable minimum. Most important macro for muscle preservation. |
+| **Carbohydrates** | ~225 g/day | Fuel for training. Prioritize around workouts. |
+| **Fat** | ~75–85 g/day | Minimum ~65 g for hormonal health (testosterone). |
+
+### Why 3 Meals Instead of 2
+
+Older adults need **40+ g protein per meal** to overcome anabolic resistance (the blunted muscle-building response that comes with age). Spreading protein across 3 feedings produces ~25% more daily muscle protein synthesis than 2 meals (Mamerow 2014). Two meals would require ~80 g protein each — difficult to eat and digest.
+
+### Daily Meal Structure
+
+| Meal | Timing | Protein | Calories | Example |
+|------|--------|---------|----------|---------|
+| **Meal 1** | Morning / brunch | 45–55 g | ~700 | 3 eggs + cheese, 2 whole grain toast + butter, mixed berries |
+| **Meal 2** | Afternoon | 35–45 g | ~450 | Protein shake (whey + milk + banana + peanut butter) or Greek yogurt + granola + almonds |
+| **Meal 3** | Dinner | 45–55 g | ~1,000–1,100 | 6–8 oz chicken/salmon, 1.5 cups rice/potatoes, large portion roasted vegetables with olive oil |
+
+**Daily totals: ~2,250–2,300 kcal | ~155–165 g protein | ~225 g carbs | ~80 g fat**
+
+### Training Day Option
+
+On lifting days, optionally add a small pre-workout snack if training in the afternoon:
+- Rice cake with 2 tbsp peanut butter + banana (~250 kcal)
+- Reduce dinner portion slightly to stay at calorie target
+
+### High-Protein Foods (Easy Prep)
+
+| Food | Protein | Prep |
+|------|---------|------|
+| Chicken breast (6 oz cooked) | ~42 g | Batch-cook on weekends |
+| Salmon fillet (6 oz) | ~34 g | Bake at 400°F for 12 min |
+| Lean ground turkey (6 oz) | ~36 g | Tacos, bowls, stir-fry |
+| Lean beef sirloin (6 oz) | ~46 g | Grill or pan-sear |
+| Eggs (3 large) | ~18 g | Scramble in 3 min |
+| Greek yogurt plain 2% (1 cup) | ~20 g | Add berries + nuts |
+| Cottage cheese 2% (1 cup) | ~25 g | No prep needed |
+| Canned tuna (5 oz) | ~30 g | No prep needed |
+| Whey protein isolate (1 scoop) | ~25–30 g | Shake in 30 seconds |
+| Lentils (1 cup cooked) | ~18 g | Batch-cook; good fiber source |
+
+### Weekly Meal Prep (Sunday, ~60–90 min)
+
+1. Batch-cook 2–3 lb chicken breast (salt, pepper, garlic, paprika)
+2. Cook a large pot of rice or roast a sheet pan of potatoes
+3. Wash and chop vegetables for the week
+4. Hard-boil 6–8 eggs
+5. Portion Greek yogurt into containers with toppings
+
+Midweek, cook fish or ground turkey fresh (10–15 min).
+
+### Hydration
+
+| Guideline | Amount |
+|-----------|--------|
+| Daily water | ~100 oz (3 liters) |
+| During training | Additional 16–24 oz per hour |
+| Rule of thumb | Half your body weight in ounces |
+| Target | Pale yellow urine throughout the day |
+
+---
+
+## Weight Loss Plan
+
+### Target & Timeline
+
+| | Detail |
+|--|--------|
+| **Start weight** | ~200 lb |
+| **Goal weight** | ~180 lb |
+| **Rate** | 0.5–1.0 lb/week |
+| **Timeline** | **6–9 months** |
+
+### What to Expect
+
+- **Weeks 1–2:** Quick initial drop (2–4 lb) — mostly water, not fat
+- **Weeks 3+:** ~0.5–1 lb/week, with normal fluctuations of 1–3 lb in either direction
+- **Plateaus (1–3 weeks):** Normal. Caused by water retention, training stress, hormonal shifts
+- **Not linear:** Weight bounces around. Track **weekly averages**, not daily weigh-ins.
+
+### How to Track Progress
+
+1. **Weigh daily** (morning, after bathroom, before eating) — look at the **weekly average only**
+2. **Measure waist** every 2–4 weeks (more useful than scale weight)
+3. **Track gym strength** — if lifts are maintaining or going up, muscle is being preserved
+4. **Progress photos** monthly — visual changes often precede scale changes
+
+### Adjustments
+
+- If no weight loss for **2+ consecutive weeks**, reduce calories by 100–150 kcal
+- **Diet breaks:** Every 8–12 weeks, eat at maintenance (~2,650 kcal) for 1–2 weeks. Research shows intermittent dieting reduces metabolic adaptation (Byrne 2018).
+
+---
+
+## Supplements
+
+### Recommended (Evidence-Based)
+
+| Supplement | Dose | Timing | Why | Monthly Cost |
+|------------|------|--------|-----|-------------|
+| **Creatine monohydrate** | 5 g/day | With any meal | Adds ~1.4 kg lean mass over RT alone in older adults (Chilibeck 2017). Most studied supplement in history. | $8–12 |
+| **Whey protein isolate** | 25–50 g as needed | Post-workout or as meal 2 | Hit 160 g protein target without cooking a full meal | $25–40 |
+| **Vitamin D3** | 2,000 IU/day | With a meal containing fat | 40–75% of older adults deficient. Supports bone, muscle, immune function, testosterone. Get blood levels tested. | $5–8 |
+| **Omega-3 fish oil** | 1–2 g EPA/DHA | With a meal | Enhances muscle protein synthesis response in older adults (Smith 2011). Cardiovascular benefit. | $12–20 |
+| **Magnesium glycinate** | 300 mg | Before bed | Supports sleep quality and muscle recovery. Many adults subclinically deficient. | $8–12 |
+
+**Total: ~$60–90/month**
+
+### Skip These (No Meaningful Evidence)
+
+| Supplement | Why Skip |
+|------------|----------|
+| BCAAs | Unnecessary if hitting protein targets (Wolfe 2017) |
+| Testosterone boosters | No meaningful evidence in clinical studies |
+| HMB | Small, inconsistent effects in trained individuals |
+| Glutamine | No benefit in well-nourished individuals |
+| Multivitamins | Targeted supplementation (D, Mg, omega-3) is more effective |
+| Pre-workout formulas | Overpriced caffeine. A cup of coffee works the same. |
+
+---
+
+## Micronutrients to Watch
+
+| Nutrient | Why at 55 | Food Sources | Supplement |
+|----------|-----------|-------------|------------|
+| **Vitamin D** | Absorption decreases with age; critical for bone + testosterone | Fatty fish, egg yolks, fortified milk | 1,000–2,000 IU/day |
+| **Magnesium** | 300+ enzymatic processes; many adults deficient | Dark leafy greens, nuts, seeds | 200–400 mg/day (glycinate) |
+| **Omega-3** | Anti-inflammatory; enhances MPS in older adults | Fatty fish 2–3x/week | 1–2 g EPA/DHA if not eating fish |
+| **Zinc** | Supports testosterone production | Red meat, shellfish, pumpkin seeds | Usually sufficient from high-protein diet |
+| **Calcium** | Bone health needs increase after 50 | Dairy, leafy greens | 1,000 mg/day from food + supplement if needed |
+| **Fiber** | Gut health, satiety, cardiovascular risk reduction | Vegetables, whole grains, legumes, fruit | Target 30–35 g/day from food |
+
+---
+
+## Key Research Findings
+
+### Weight & Body Composition
+- **Overweight BMI (25–30) has lower all-cause mortality than normal BMI after 50** (Flegal, JAMA 2013; 2.88M people)
+- **The "obesity paradox" disappears when waist circumference is used instead of BMI** — it's about visceral fat, not total weight
+- **Sarcopenia (muscle loss) is a major mortality driver after 50** — losing 1–2% muscle mass/year without intervention
+- **A muscular 190 lb man at 18% body fat is healthier than a sedentary 170 lb man at 25% body fat**
+
+### Resistance Training
+- Each muscle group **2x/week** is superior to 1x for hypertrophy (Schoenfeld 2016)
+- **10–15 sets per muscle/week** is the optimal dose-response range (Schoenfeld 2017)
+- **60–80% of 1RM** produces greatest strength gains in older adults (Peterson 2010)
+- Even **90-year-olds** gain significant strength with progressive resistance training (Fiatarone, NEJM 1994)
+
+### Cardio & Heart Health
+- **150 min/week** captures ~80% of maximum mortality benefit (Arem, JAMA 2015)
+- **Moderate-intensity cardio grows collateral vessels as well as high-intensity** (EXCITE Trial, Circulation 2016)
+- **Combined cardio + resistance = 40–46% lower all-cause mortality** vs. either alone
+- **Resistance training itself improves blood pressure and lipid profiles** (Cornelissen & Smart, JACC 2013)
+
+### Nutrition
+- **High protein (1.6–2.0 g/kg) during a deficit preserves lean mass** (Phillips & Van Loon 2011, Longland 2016)
+- **Distributing protein across 3+ meals stimulates 25% more MPS** than skewed eating (Mamerow 2014)
+- **Older adults need 40+ g protein per meal** to overcome anabolic resistance (Moore 2015)
+- **Fat below 20–25% of calories decreases testosterone** (Dorgan 1996, Hämäläinen 1984)
+- **Slow weight loss (0.7%/week) preserves lean mass; fast loss does not** (Garthe 2011)
+- **Diet breaks every 8–12 weeks reduce metabolic adaptation** (Byrne 2018)
+- **Creatine + RT adds ~1.4 kg lean mass over RT alone in older adults** (Chilibeck 2017)
+
+### Sources
+
+- Flegal et al., JAMA 2013 — Overweight and mortality meta-analysis
+- Global BMI Mortality Collaboration, Lancet 2016 — BMI and all-cause mortality
+- 2024 Systematic Review (PMC) — BMI and all-cause mortality
+- Winter et al., Am J Clin Nutr 2014 — BMI and mortality in older adults
+- Ashwell & Hsieh, PMC 2013 — WHtR vs BMI for cardiometabolic risk
+- Volaklis et al., PMC 2018 — Muscle mass/strength and mortality
+- Nature Int J Obesity 2023 — WHtR and years of life lost
+- EXCITE Trial, Circulation 2016 — Coronary collateral growth from exercise
+- Meier et al., European Heart Journal 2012 — Collateral circulation and mortality
+- Murlasits et al., Sports Medicine 2018 — Concurrent training interference effect
+- Schoenfeld et al., Sports Medicine 2016 — Training frequency and hypertrophy
+- Schoenfeld et al., JSCR 2017 — Volume dose-response for hypertrophy
+- Peterson et al., Medicine & Science in Sports 2010 — Resistance training in older adults
+- Fiatarone et al., NEJM 1994 — Progressive resistance in elderly
+- Arem et al., JAMA Internal Medicine 2015 — Exercise dose and mortality
+- McGill, Low Back Disorders 2010 — Spinal flexion and disc injury
+- Cornelissen & Smart, JACC 2013 — Resistance training and blood pressure
+- NSCA Position Statement (Fragala 2019) — Resistance training for older adults
+- Jäger et al., JISSN 2017 — ISSN position stand on protein
+- Phillips & Van Loon, J Sports Sciences 2011 — Dietary protein for athletes
+- Mamerow et al., J Nutrition 2014 — Protein distribution and MPS
+- Moore et al., Clinical Nutrition 2015 — Per-meal protein thresholds in older adults
+- Longland et al., AJCN 2016 — High protein during deficit
+- Churchward-Venne et al., Nutrition & Metabolism 2012 — Protein and body recomposition
+- Garthe et al., IJSNEM 2011 — Rate of weight loss and lean mass
+- Byrne et al., Int J Obesity 2018 — Intermittent dieting and metabolic adaptation
+- Dorgan et al., AJCN 1996 — Dietary fat and testosterone
+- Hämäläinen et al., J Steroid Biochem 1984 — Fat intake and testosterone
+- Chilibeck et al., Open Access J Sports Med 2017 — Creatine in older adults
+- Smith et al., AJCN 2011 — Omega-3 and MPS in older adults
+- Holick, NEJM 2007 — Vitamin D deficiency
+- Morton et al., BJSM 2018 — Protein supplementation meta-analysis
 
 ---
 
@@ -243,7 +440,10 @@ Exercise stimulates **collateral blood vessel growth** in the heart — dormant 
 - [ ] Baseline current health metrics (measure waist, estimate body fat %)
 - [x] Research evidence-based weight targets
 - [x] Design resistance training program
-- [ ] Design detailed nutrition plan for body recomposition
+- [x] Design nutrition plan for body recomposition
 - [ ] Set up regular tracking in health-log.md
 - [ ] Phase in new program (weeks 1–2: learn movements)
 - [ ] Consider 1–2 sessions with a trainer for compound lift form (squat, deadlift)
+- [ ] Get blood work: vitamin D levels, basic metabolic panel
+- [ ] Purchase supplements: creatine, whey protein, vitamin D3, omega-3, magnesium
+- [ ] Sunday meal prep: batch-cook protein + carbs for the week
