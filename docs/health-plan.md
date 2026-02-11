@@ -376,6 +376,29 @@ Reading engages substantially different brain regions than music:
 
 The Verghese et al. (NEJM 2003) landmark study found both reading and playing instruments **independently** reduced dementia risk. Each additional cognitive activity contributed incrementally (HR 0.93 per activity).
 
+### Visual Reading vs. Audiobooks
+
+fMRI studies show reading and listening activate **the same semantic processing networks** for comprehension (Buchweitz 2011, UC Berkeley). The differences are at the input stage only. However, **visual reading has a slight edge for cognitive health:**
+
+| | Visual Reading | Audiobooks |
+|--|---------------|------------|
+| Comprehension | Equivalent | Equivalent |
+| Semantic brain networks | Same | Same |
+| **Memory retention** | **Better** — spatial anchoring aids recall | Slightly worse — no page-position cues |
+| **Active processing** | **Higher** — brain decodes text | Lower — receives speech passively |
+| **Distraction risk** | Lower | Higher — temptation to multitask |
+| Deep processing | Strong | Depends on focused attention |
+
+**Important caveats:**
+- No studies have directly compared audiobooks vs. visual reading for dementia prevention — this is a gap in the research
+- The Verghese (NEJM 2003) study did not specify visual reading vs. listening (though in 2003, participants were almost certainly reading with their eyes)
+- What drives cognitive reserve is **active engagement with complex content** — the input modality matters less than the depth of engagement
+
+**Recommendation:**
+- Use the 30–45 min reading time for **focused visual reading** (no phone, no distractions)
+- Audiobooks are a great **bonus** during commutes, walks, or chores — but don't count them as your dedicated reading time
+- A focused audiobook is still better than no reading at all
+
 ### Why Both Together > Either Alone
 
 1. **Different neural networks** — music and reading engage overlapping but substantially different brain regions
@@ -421,6 +444,8 @@ The Verghese et al. (NEJM 2003) landmark study found both reading and playing in
 - **Multi-domain cognitive interventions outperform single-domain** (Lancet Healthy Longevity 2025)
 - **Cognitive benefits of practice plateau around 45–60 min/session** — 2 hours is not meaningfully better than 1 hour for brain health (Ericsson 1993)
 - **Music practice reduces depression, anxiety, and cortisol** (Seinfeld 2013, stress biomarker meta-analyses)
+- **Visual reading and audiobooks activate the same semantic networks** but visual reading has better memory retention (Buchweitz 2011)
+- **No studies directly compare audiobooks vs. visual reading for dementia prevention** — a gap in the research
 
 ### Nutrition
 - **High protein (1.6–2.0 g/kg) during a deficit preserves lean mass** (Phillips & Van Loon 2011, Longland 2016)
@@ -474,6 +499,7 @@ The Verghese et al. (NEJM 2003) landmark study found both reading and playing in
 - Ericsson et al., Psychological Review 1993 — Deliberate practice
 - Loepthien & Leipold, Psychology of Music 2022 — Flow in musical activities and well-being
 - Lancet Healthy Longevity 2025 — Multidomain lifestyle interventions for cognitive health
+- Buchweitz et al., PMC 2011 — Brain activation for reading vs listening comprehension (fMRI)
 
 ---
 
