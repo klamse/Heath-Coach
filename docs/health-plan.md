@@ -127,6 +127,41 @@ Total = sum of three scores (max 30)
 
 **~19 working sets, ~60–65 min**
 
+### Starting Weights & Targets
+
+Recommended starting weights for a 200 lb, 55-year-old beginner. Go lighter if needed — weeks 1–2 should feel easy (RPE 5–6).
+
+| Exercise | Starting Weight | 6–12 Month Target |
+|----------|----------------|-------------------|
+| Dumbbell Bench Press | 30 lb each | 50–60 lb each |
+| Cable Row | 70 lb | 120–140 lb |
+| Dumbbell Overhead Press | 20 lb each | 35–45 lb each |
+| Lat Pulldown | 80 lb | 130–150 lb |
+| Dumbbell Curl | 15 lb each | 30–35 lb each |
+| Tricep Pushdown | 35 lb | 60–70 lb |
+| Face Pull | 25 lb | 40–50 lb |
+| Goblet Squat | 30 lb | 60–70 lb (then barbell) |
+| Romanian Deadlift | 75 lb (barbell) | 135–185 lb |
+| Leg Press | 120 lb | 250–350 lb |
+| Walking Lunge | 15 lb each | 35–45 lb each |
+| Leg Curl | 60 lb | 100–120 lb |
+| Standing Calf Raise | 90 lb | 160–200 lb |
+| Pallof Press | 10 lb | 25–35 lb |
+| Overhead Press | 20 lb each | 35–45 lb each |
+| Incline Dumbbell Press | 25 lb each | 45–55 lb each |
+| Assisted Chin-up | Use assist machine | Bodyweight chin-up |
+| Lateral Raise | 10 lb each | 20–25 lb each |
+| Hammer Curl | 15 lb each | 30–35 lb each |
+| Overhead Tricep Extension | 20 lb (one DB) | 40–50 lb |
+| Trap Bar Deadlift | 95 lb | 185–245 lb |
+| Bulgarian Split Squat | 15 lb each | 35–45 lb each |
+| Hip Thrust | 65 lb (barbell) | 135–185 lb |
+| Leg Extension | 50 lb | 90–120 lb |
+| Farmer's Carry | 40 lb each | 70–80 lb each |
+| Dead Bug | Bodyweight | Add ankle weights or hold DB |
+
+**Note:** Machine weights vary by brand — Life Fitness numbers won't match other brands. Go by feel, not the number.
+
 ### Progressive Overload — How to Increase Weight
 
 Use the **double progression method**:
