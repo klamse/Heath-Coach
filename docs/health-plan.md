@@ -73,57 +73,57 @@ Total = sum of three scores (max 30)
 
 ### Upper Body A — Horizontal Emphasis
 
-| # | Exercise | Sets x Reps | Rest | Notes |
-|---|----------|-------------|------|-------|
-| 1 | [Dumbbell Bench Press](https://musclewiki.com/dumbbells/male/chest/dumbbell-bench-press) | 3 x 8–12 | 2–3 min | Progress to barbell when comfortable |
-| 2 | [Cable Row](https://musclewiki.com/cables/male/middle-back/cable-seated-row) | 3 x 8–12 | 2–3 min | Squeeze shoulder blades together |
-| 3 | [Dumbbell Overhead Press](https://musclewiki.com/dumbbells/male/shoulders/dumbbell-shoulder-press) | 3 x 8–12 | 2 min | Seated or standing |
-| 4 | [Lat Pulldown](https://musclewiki.com/cables/male/lats/cable-lat-pulldown) | 3 x 10–12 | 90 sec | Full stretch at top |
-| 5 | [Dumbbell Curl](https://musclewiki.com/dumbbells/male/biceps/dumbbell-curl) | 2 x 10–15 | 60 sec | Progress weight over time |
-| 6 | [Tricep Pushdown](https://musclewiki.com/cables/male/triceps/cable-pushdown) | 2 x 10–15 | 60 sec | Cable machine |
-| 7 | [Face Pull](https://musclewiki.com/cables/male/rear-deltoid/cable-face-pull) | 2 x 15–20 | 60 sec | Shoulder health & posture |
+| # | Exercise | Equipment | Sets x Reps | Rest | Notes |
+|---|----------|-----------|-------------|------|-------|
+| 1 | [Dumbbell Bench Press](https://musclewiki.com/dumbbells/male/chest/dumbbell-bench-press) | Dumbbells + flat bench | 3 x 8–12 | 2–3 min | Progress to barbell when comfortable |
+| 2 | [Cable Row](https://musclewiki.com/cables/male/middle-back/cable-seated-row) | Cable machine (seated) | 3 x 8–12 | 2–3 min | Squeeze shoulder blades together |
+| 3 | [Dumbbell Overhead Press](https://musclewiki.com/dumbbells/male/shoulders/dumbbell-shoulder-press) | Dumbbells | 3 x 8–12 | 2 min | Seated or standing |
+| 4 | [Lat Pulldown](https://musclewiki.com/cables/male/lats/cable-lat-pulldown) | Cable pulldown machine | 3 x 10–12 | 90 sec | Full stretch at top |
+| 5 | [Dumbbell Curl](https://musclewiki.com/dumbbells/male/biceps/dumbbell-curl) | Dumbbells | 2 x 10–15 | 60 sec | Progress weight over time |
+| 6 | [Tricep Pushdown](https://musclewiki.com/cables/male/triceps/cable-pushdown) | Cable machine + rope attachment | 2 x 10–15 | 60 sec | |
+| 7 | [Face Pull](https://musclewiki.com/cables/male/rear-deltoid/cable-face-pull) | Cable machine + rope attachment | 2 x 15–20 | 60 sec | Shoulder health & posture |
 
 **~18 working sets, ~60–65 min**
 
 ### Lower Body A — Squat Emphasis
 
-| # | Exercise | Sets x Reps | Rest | Notes |
-|---|----------|-------------|------|-------|
-| 1 | [Goblet Squat](https://musclewiki.com/dumbbells/male/quads/dumbbell-goblet-squat) | 3 x 8–12 | 2–3 min | Hold dumbbell at chest; progress to barbell squat |
-| 2 | [Romanian Deadlift](https://musclewiki.com/barbell/male/hamstrings/barbell-romanian-deadlift) | 3 x 8–12 | 2–3 min | Hinge at hips, slight knee bend, feel hamstring stretch |
-| 3 | [Leg Press](https://musclewiki.com/machine/male/quads/machine-leg-press) | 3 x 10–15 | 2 min | Load MUCH heavier — progress toward 200+ lb |
-| 4 | [Walking Lunge](https://musclewiki.com/dumbbells/male/quads/dumbbell-lunge) | 2 x 10–12/leg | 90 sec | Hold dumbbells at sides |
-| 5 | [Leg Curl](https://musclewiki.com/machine/male/hamstrings/machine-leg-curl) | 2 x 10–15 | 60 sec | Machine |
-| 6 | [Standing Calf Raise](https://musclewiki.com/machine/male/calves/machine-calf-raise) | 3 x 12–15 | 60 sec | Full range of motion |
-| 7 | [Pallof Press](https://musclewiki.com/cables/male/abs/cable-pallof-press) | 3 x 10–12 | 60 sec | Anti-rotation core — hold cable at chest, press out, resist twist |
+| # | Exercise | Equipment | Sets x Reps | Rest | Notes |
+|---|----------|-----------|-------------|------|-------|
+| 1 | [Goblet Squat](https://musclewiki.com/dumbbells/male/quads/dumbbell-goblet-squat) | Single dumbbell | 3 x 8–12 | 2–3 min | Hold dumbbell at chest; progress to barbell squat |
+| 2 | [Romanian Deadlift](https://musclewiki.com/barbell/male/hamstrings/barbell-romanian-deadlift) | Barbell | 3 x 8–12 | 2–3 min | Hinge at hips, slight knee bend, feel hamstring stretch |
+| 3 | [Leg Press](https://musclewiki.com/machine/male/quads/machine-leg-press) | Leg press machine | 3 x 10–15 | 2 min | Load MUCH heavier — progress toward 200+ lb |
+| 4 | [Walking Lunge](https://musclewiki.com/dumbbells/male/quads/dumbbell-lunge) | Dumbbells | 2 x 10–12/leg | 90 sec | Hold dumbbells at sides |
+| 5 | [Leg Curl](https://musclewiki.com/machine/male/hamstrings/machine-leg-curl) | Leg curl machine | 2 x 10–15 | 60 sec | |
+| 6 | [Standing Calf Raise](https://musclewiki.com/machine/male/calves/machine-calf-raise) | Calf raise machine | 3 x 12–15 | 60 sec | Full range of motion |
+| 7 | [Pallof Press](https://musclewiki.com/cables/male/abs/cable-pallof-press) | Cable machine + D-handle | 3 x 10–12 | 60 sec | Anti-rotation core — press out, resist twist |
 
 **~19 working sets, ~60–65 min**
 
 ### Upper Body B — Vertical Emphasis
 
-| # | Exercise | Sets x Reps | Rest | Notes |
-|---|----------|-------------|------|-------|
-| 1 | [Overhead Press](https://musclewiki.com/dumbbells/male/shoulders/dumbbell-shoulder-press) | 3 x 8–12 | 2–3 min | Primary press for the day |
-| 2 | [Cable Row](https://musclewiki.com/cables/male/middle-back/cable-seated-row) (different grip) | 3 x 8–12 | 2–3 min | Use neutral or wide grip |
-| 3 | [Incline Dumbbell Press](https://musclewiki.com/dumbbells/male/chest/dumbbell-incline-bench-press) | 3 x 10–12 | 2 min | Bench at ~30° angle |
-| 4 | [Assisted Chin-up](https://musclewiki.com/bodyweight/male/biceps/chin-up) (or machine) | 3 x 6–10 | 2 min | Use assist machine if needed; palms facing you |
-| 5 | [Lateral Raise](https://musclewiki.com/dumbbells/male/shoulders/dumbbell-lateral-raise) | 2 x 12–15 | 60 sec | Light weight, control the movement |
-| 6 | [Hammer Curl](https://musclewiki.com/dumbbells/male/biceps/dumbbell-hammer-curl) | 2 x 10–15 | 60 sec | Palms face each other (neutral grip) |
-| 7 | [Overhead Tricep Extension](https://musclewiki.com/dumbbells/male/triceps/dumbbell-overhead-tricep-extension) | 2 x 10–15 | 60 sec | One dumbbell, both hands |
+| # | Exercise | Equipment | Sets x Reps | Rest | Notes |
+|---|----------|-----------|-------------|------|-------|
+| 1 | [Overhead Press](https://musclewiki.com/dumbbells/male/shoulders/dumbbell-shoulder-press) | Dumbbells | 3 x 8–12 | 2–3 min | Primary press for the day |
+| 2 | [Cable Row](https://musclewiki.com/cables/male/middle-back/cable-seated-row) (different grip) | Cable machine (seated) | 3 x 8–12 | 2–3 min | Use neutral or wide grip |
+| 3 | [Incline Dumbbell Press](https://musclewiki.com/dumbbells/male/chest/dumbbell-incline-bench-press) | Dumbbells + adjustable bench | 3 x 10–12 | 2 min | Bench at ~30° angle |
+| 4 | [Assisted Chin-up](https://musclewiki.com/bodyweight/male/biceps/chin-up) | Assisted chin-up machine | 3 x 6–10 | 2 min | Palms facing you |
+| 5 | [Lateral Raise](https://musclewiki.com/dumbbells/male/shoulders/dumbbell-lateral-raise) | Dumbbells (light) | 2 x 12–15 | 60 sec | Stand, arms at sides, raise out to shoulder height |
+| 6 | [Hammer Curl](https://musclewiki.com/dumbbells/male/biceps/dumbbell-hammer-curl) | Dumbbells | 2 x 10–15 | 60 sec | Palms face each other (neutral grip) |
+| 7 | [Overhead Tricep Extension](https://musclewiki.com/dumbbells/male/triceps/dumbbell-overhead-tricep-extension) | Single dumbbell | 2 x 10–15 | 60 sec | Both hands, raise overhead, lower behind head |
 
 **~18 working sets, ~60–65 min**
 
 ### Lower Body B — Hinge Emphasis
 
-| # | Exercise | Sets x Reps | Rest | Notes |
-|---|----------|-------------|------|-------|
-| 1 | [Trap Bar Deadlift](https://musclewiki.com/barbell/male/glutes/trap-bar-deadlift) | 3 x 6–10 | 3 min | Hex bar — easier on spine than conventional. Ask gym staff to show you. |
-| 2 | [Bulgarian Split Squat](https://musclewiki.com/dumbbells/male/quads/dumbbell-bulgarian-split-squat) | 3 x 8–12/leg | 2 min | Rear foot on bench, hold dumbbells |
-| 3 | [Hip Thrust](https://musclewiki.com/barbell/male/glutes/barbell-hip-thrust) | 3 x 10–12 | 2 min | Back on bench, barbell across hips |
-| 4 | [Leg Extension](https://musclewiki.com/machine/male/quads/machine-leg-extension) | 2 x 12–15 | 60 sec | Machine |
-| 5 | [Leg Curl](https://musclewiki.com/machine/male/hamstrings/machine-leg-curl) | 2 x 10–15 | 60 sec | Machine |
-| 6 | [Farmer's Carry](https://musclewiki.com/dumbbells/male/forearms/dumbbell-farmers-carry) | 3 x 40 yards | 90 sec | Heavy dumbbells, walk with good posture |
-| 7 | [Dead Bug](https://musclewiki.com/bodyweight/male/abs/dead-bug) | 3 x 10–12 | 60 sec | Lie on back, opposite arm/leg extend — keep back flat |
+| # | Exercise | Equipment | Sets x Reps | Rest | Notes |
+|---|----------|-----------|-------------|------|-------|
+| 1 | [Trap Bar Deadlift](https://musclewiki.com/barbell/male/glutes/trap-bar-deadlift) | Hex/trap bar | 3 x 6–10 | 3 min | Stand inside bar, grip side handles. Ask gym staff to show you. |
+| 2 | [Bulgarian Split Squat](https://musclewiki.com/dumbbells/male/quads/dumbbell-bulgarian-split-squat) | Dumbbells + flat bench | 3 x 8–12/leg | 2 min | Rear foot on bench, hold dumbbells at sides |
+| 3 | [Hip Thrust](https://musclewiki.com/barbell/male/glutes/barbell-hip-thrust) | Barbell + flat bench | 3 x 10–12 | 2 min | Back on bench, barbell across hips, drive up |
+| 4 | [Leg Extension](https://musclewiki.com/machine/male/quads/machine-leg-extension) | Leg extension machine | 2 x 12–15 | 60 sec | |
+| 5 | [Leg Curl](https://musclewiki.com/machine/male/hamstrings/machine-leg-curl) | Leg curl machine | 2 x 10–15 | 60 sec | |
+| 6 | [Farmer's Carry](https://musclewiki.com/dumbbells/male/forearms/dumbbell-farmers-carry) | Heavy dumbbells | 3 x 40 yards | 90 sec | Pick up and walk with good posture |
+| 7 | [Dead Bug](https://musclewiki.com/bodyweight/male/abs/dead-bug) | Bodyweight (floor/mat) | 3 x 10–12 | 60 sec | On back, opposite arm/leg extend, hold 2–3 sec, keep back flat |
 
 **~19 working sets, ~60–65 min**
 
