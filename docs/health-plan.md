@@ -195,7 +195,7 @@ Exercise stimulates **collateral blood vessel growth** in the heart — dormant 
 | Parameter | Target | Notes |
 |-----------|--------|-------|
 | **Daily calories** | **2,300 kcal** | ~15-17% deficit from TDEE of ~2,700. Adjust every 3–4 weeks. |
-| **Protein** | **160 g/day** (1.8 g/kg) | Non-negotiable minimum. Most important macro for muscle preservation. |
+| **Protein** | **146–160 g/day** (1.6–1.8 g/kg) | See kidney health note below. 1.6 g/kg captures full MPS benefit (Morton 2018). |
 | **Carbohydrates** | ~225 g/day | Fuel for training. Prioritize around workouts. |
 | **Fat** | ~75–85 g/day | Minimum ~65 g for hormonal health (testosterone). |
 
@@ -252,6 +252,52 @@ Midweek, cook fish or ground turkey fresh (10–15 min).
 | During training | Additional 16–24 oz per hour |
 | Rule of thumb | Half your body weight in ounces |
 | Target | Pale yellow urine throughout the day |
+
+### Kidney Health & Protein (Family History of CKD)
+
+**Context:** Family history of kidney disease increases CKD risk 3-9x (Freedman 2005). High protein (1.6-2.0 g/kg) does NOT cause kidney disease in healthy people (Devries 2018 meta-analysis, Antonio 2016), but family history warrants monitoring and precautions.
+
+**Protein target adjusted:** 146 g/day (1.6 g/kg) is recommended over 160 g — it captures the full muscle protein synthesis benefit (Morton 2018 meta-analysis found 1.6 g/kg is the inflection point) while being slightly more conservative. Can increase to 1.8 g/kg if kidney monitoring stays clean after 6-12 months.
+
+**Protein source matters:**
+
+| Source | Daily Target | Kidney Risk |
+|--------|-------------|-------------|
+| Fish & poultry | 50-60 g | No CKD association (Lew 2017) |
+| Dairy / whey | 40-50 g | No CKD association |
+| Plant protein (legumes, soy) | 25-35 g | Potentially protective — lower acid load (Jhee 2019) |
+| Eggs | 15-20 g | No CKD association |
+| **Red meat** | **Limit to 2-3 servings/week** | **Dose-dependent ESRD risk increase (Lew 2017). Substituting with other sources reduces risk 31-62%.** |
+
+**Creatine supplementation note:** Creatine raises serum creatinine ~10-20%, which can **falsely lower calculated eGFR**. Not evidence of kidney damage, but complicates monitoring. If supplementing creatine: (1) inform your doctor, (2) use cystatin C-based GFR testing instead of creatinine-based, (3) consider stopping creatine 2 weeks before kidney function tests for cleaner results.
+
+**Required monitoring:**
+
+| Test | What It Catches | How Often |
+|------|----------------|-----------|
+| **Cystatin C-based eGFR** | True kidney function (not affected by protein/muscle/creatine) | Every 6-12 months |
+| **Urine albumin-to-creatinine ratio (UACR)** | Earliest sign of kidney damage | Every 6-12 months |
+| **Blood pressure** | #1 modifiable CKD risk factor | Every visit |
+| **Fasting glucose / HbA1c** | #2 CKD risk factor (diabetes) | Annually |
+| **Uric acid** | Elevated with high animal protein | Annually |
+
+**Decision tree — when to reduce protein:**
+
+| Finding | Action |
+|---------|--------|
+| eGFR >90, UACR <30 | Continue 1.6 g/kg. All clear. |
+| eGFR stable but 60-89 | Continue 1.6 g/kg with closer monitoring (every 3-6 months) |
+| eGFR 60-89 with declining trend | Reduce to 1.0-1.2 g/kg, consult nephrologist |
+| UACR 30-300 (microalbuminuria) | Reduce to 1.0-1.2 g/kg, investigate cause, consult nephrologist |
+| eGFR drops below 60 | Reduce to 0.8 g/kg, see nephrologist |
+| eGFR drops below 45 | Strict protein management under nephrology guidance |
+
+**Other kidney-protective measures:**
+- **Hydrate adequately** — 3-4L fluid/day; kidneys need water to clear protein metabolites
+- **Control blood pressure** — target <130/80 mmHg
+- **Avoid chronic NSAID use** (ibuprofen, naproxen) — nephrotoxic. Use acetaminophen instead.
+- **Eat fruits and vegetables** — alkaline load buffers acid from protein
+- **Limit sodium** — <2,300 mg/day
 
 ---
 
@@ -447,6 +493,14 @@ fMRI studies show reading and listening activate **the same semantic processing 
 - **Visual reading and audiobooks activate the same semantic networks** but visual reading has better memory retention (Buchweitz 2011)
 - **No studies directly compare audiobooks vs. visual reading for dementia prevention** — a gap in the research
 
+### Kidney Health & Protein
+- **High protein does NOT cause kidney disease in healthy people** (Devries 2018 meta-analysis, Antonio 2016, Schwingshackl & Hoffmann 2014)
+- **Family history of CKD increases risk 3-9x** (Freedman 2005) — warrants monitoring, not protein avoidance
+- **Red meat is the one protein source linked to CKD risk** — dose-dependent (Lew 2017). Substituting with other sources reduces risk 31-62%.
+- **Plant protein shows no CKD association** and may be protective (Jhee 2019)
+- **1.6 g/kg is the MPS inflection point** — no meaningful additional muscle benefit above this (Morton 2018)
+- **Cystatin C-based GFR is more accurate** than creatinine-based for people on high-protein diets or creatine
+
 ### Nutrition
 - **High protein (1.6–2.0 g/kg) during a deficit preserves lean mass** (Phillips & Van Loon 2011, Longland 2016)
 - **Distributing protein across 3+ meals stimulates 25% more MPS** than skewed eating (Mamerow 2014)
@@ -500,6 +554,12 @@ fMRI studies show reading and listening activate **the same semantic processing 
 - Loepthien & Leipold, Psychology of Music 2022 — Flow in musical activities and well-being
 - Lancet Healthy Longevity 2025 — Multidomain lifestyle interventions for cognitive health
 - Buchweitz et al., PMC 2011 — Brain activation for reading vs listening comprehension (fMRI)
+- Knight et al., Annals of Internal Medicine 2003 — Protein intake and kidney function decline
+- Lew et al., JASN 2017 — Red meat intake and ESRD risk
+- Jhee et al., CJASN 2019 — Animal vs plant protein and renal hyperfiltration
+- Devries et al., J Nutrition 2018 — High-protein diets and kidney function meta-analysis
+- Freedman et al., Am J Kidney Diseases 2005 — Family history and ESRD risk
+- KDIGO 2024 — Clinical practice guideline for CKD evaluation and management
 
 ---
 
@@ -518,3 +578,7 @@ fMRI studies show reading and listening activate **the same semantic processing 
 - [ ] Sunday meal prep: batch-cook protein + carbs for the week
 - [x] Research cognitive health: piano practice and reading
 - [ ] Shift piano practice to 45–60 min/day, add 30–45 min reading
+- [x] Research kidney health and high-protein diet with family history of CKD
+- [ ] Get baseline kidney panel: cystatin C eGFR, UACR, BUN, uric acid, urinalysis
+- [ ] Shift protein sources: more fish/poultry/plant, limit red meat to 2-3x/week
+- [ ] Discuss kidney monitoring plan with doctor
